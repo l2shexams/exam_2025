@@ -126,18 +126,14 @@
 
 ## Полезные ссылки
 
-**Bootstrap 5**
-- https://getbootstrap.com/docs/5.3/getting-started/introduction/
-
-**Flask, Flask-wtf. SQLAlchemy**
-- https://yltheory.notion.site/Flask-Flask-wtf-133d7190f28b81059ca7c7e544c26490
-- https://yltheory.notion.site/WEB-flask-sqlalchemy-133d7190f28b81918811e7c718e5beac
-- https://yltheory.notion.site/WEB-Flask-sqlalchemy-133d7190f28b81fc8f18d628e075cad2
-
-**Работа с файлами. Базы данных SQL**
-- https://yltheory.notion.site/QT-4-Python-133d7190f28b817e9806f1be0d61e934
-- https://yltheory.notion.site/CSV-SQL-133d7190f28b8118a989f0416a1eceaa
-
-**Git, GitHub**
-- https://yltheory.notion.site/133d7190f28b8175b85df1996c76c58b
-- https://yltheory.notion.site/133d7190f28b812b95dff545784520e0
+- [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Flask](https://yltheory.notion.site/133d7190f28b819f8710d7b1b0eea7ab)
+- [Шаблоны и обработка форм во Flask](https://yltheory.notion.site/133d7190f28b817b90f9f66d46699b9d)
+- [Сессии и авторизация во Flask](https://yltheory.notion.site/133d7190f28b81739f92e015809a14e6)
+- [SQLAlchemy](https://yltheory.notion.site/133d7190f28b817f8a12de8f8c280387)
+- [Работа с файлами](https://yltheory.notion.site/133d7190f28b810cb556fb3d2a14c004)
+- [JSON-файлы](https://yltheory.notion.site/133d7190f28b8179a92fd8c0dd70e6a9?pvs=97#133d7190f28b81bf9864f77771b0e866)
+- [Работа с CSV файлами](https://yltheory.notion.site/133d7190f28b81b7934fcfd1b27e1a66)
+- [Введение в SQL и работа с SQLite](https://yltheory.notion.site/133d7190f28b812fbb94df5cc8e347cd)
+- [Введние в git, работа с GitHub](https://yltheory.notion.site/133d7190f28b8175b85df1996c76c58b)
+- [Ветки, конфликты и командная работа в git](https://yltheory.notion.site/133d7190f28b813e8455fae07ef9ab1b)
