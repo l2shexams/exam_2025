@@ -29,6 +29,8 @@
 - бронь пользователя
 - и др. на ваше усмотрение
 
+Небольшое напоминание: не забудьте про валидацию данных. Эксперты любят все ломать :)
+
 ## Базовые требования к реализации
 
 - Регистрация и авторизация
@@ -127,6 +129,7 @@
 
 ## Полезные ссылки
 
+- [Отправка электронных писем с помощью библиотеки smtblib](examples/email_sending.py)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [Flask](https://yltheory.notion.site/133d7190f28b819f8710d7b1b0eea7ab)
 - [Шаблоны и обработка форм во Flask](https://yltheory.notion.site/133d7190f28b817b90f9f66d46699b9d)
