@@ -57,8 +57,23 @@
 - CSV файлы с расписаниями кабинетов
 - CSV файлы с изменениями в расписании (заменами в уроках и заменами в кабинетах)
 - База данных SQLite с таблицей кружков
-- API [tkndtyngomjuxknkngpfcavtldvsgd.ru](https://tkndtyngomjuxknkngpfcavtldvsgd.ru/test/prod)
+- API [tkndtyngomjuxknkngpfcavtldvsgd.ru](https://tkndtyngomjuxknkngpfcavtldvsgd.ru/test/prod) (спецификация: 
+  [tkndtyngomjuxknkngpfcavtldvsgd.ru/docs](https://tkndtyngomjuxknkngpfcavtldvsgd.ru/docs))
 
 Данные можно получить из репозитория на GitHub: [github.com/l2shexams/exam_2025](https://github.com/l2shexams/exam_2025)
 
 ## Критерии
+
+
+## Регламент защиты
+
+После стоп-кодинга доступ к репозиториям закроется, поэтому важно загрузить все файлы.
+
+Для защиты кейса необходимо подготовить презентацию. На питчинг, демонстрацию и вопросы будет отведено 8 минут.
+
+##### Экспертная комиссия:
+- Федоров Кирилл Евгеньевич
+- Чернов Владимир Евгеньевич
+- Антонов Данила Сергеевич
+- Муляр Никита
+- Давидян Матвей
